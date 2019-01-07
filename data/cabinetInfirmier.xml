@@ -167,5 +167,5 @@
                 </visite>
                 
         </patient>
-        </patients>
-    </cabinet>
+    <patient><nom>SAJIDE</nom><prénom>ADIL</prénom><numéro>123456</numéro><sexe>M</sexe><naissance></naissance><visite date="2014-12-08" intervenant="001"/><adresse><étage>5 CHEMIN </étage><numéro></numéro><rue></rue><ville>GRENOBLE</ville><codePostal>38660</codePostal></adresse></patient></patients>
+</cabinet>
